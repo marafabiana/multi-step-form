@@ -17,12 +17,12 @@ const Steps = ({ currentStep }: stepsProps) => {
 
         <div className={`step ${currentStep >= 1 ? "active" : " " }`}>
             <AiOutlineStar />
-            <p>Evaluation</p>
+            <p>Customer review</p>
         </div>
 
         <div className={`step ${currentStep >= 2  ? "active" : " " }`}>
             <FiSend />
-            <p>Shipping</p>
+            <p>Send</p>
         </div>
     </div>
   )
