@@ -6,3 +6,6 @@
     <img src="./src/assets/images/screen03.png" alt="Screen 03"  height="300"/>
 </div>
 
+> This project consists of developing a review platform using React, TypeScript, and CSS.
+
+
